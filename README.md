@@ -2,7 +2,7 @@
 
 Developed using the Unity Engine, 'Herp Derp's Plight' is a 2D, Roguelike card battling game inspired by 'Dungeons And Dragons', 'Slay The Spire' and 'Divinity 2: Original Sin'. The player controls a team a characters, and must successfully navigate a dangerous dungeon, overrun with undead, goblins, and all manner of deplorable beings. 
 
-A prototype alpha version is available to be downloaded and played here: https://blackney-studios.itch.io/herp-derps-plight 
+A prototype alpha version is available to be downloaded and played here: https://vikingroo.itch.io/herp-derps-plight
 
 ### Create infintely deep, custom characters
 ![](GIF/characters.gif)
